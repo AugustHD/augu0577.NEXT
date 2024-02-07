@@ -1,0 +1,2 @@
+Kunne desværre ikke få det til at virke med relative file paths, så jeg skrev en de fulde stiger istedet for.
+Hvis du vil have de scripts til at virke, skal du gå ind i dem og ændre deres file paths i bunden.
